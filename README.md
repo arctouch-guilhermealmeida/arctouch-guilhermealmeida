@@ -1,5 +1,11 @@
 # Hi, I'm Guilherme Almeida 🧔
-I consider myself a creative and innovative professional. Looking for evolution in my career and new challenges, I've been dedicating myself to programming, web and mobile development and the Bachelor’s Degree in Computer Science, aiming to become a more capable professional to work with the demands that the technology area offers.  
+I consider myself a creative and innovative professional. 
+
+I am always looking for evolution and new challenges in my career. I have been dedicating myself to the web, mobile development, and a Bachelor’s Degree in Computer Science. 
+
+I am constantly improving my professional side with the latest market technologies.
+  
+
 ### **More details:**
 
 - :man_technologist: I’m currently working on **[ArcTouch](https://arctouch.com/)** as **Software Engineer**

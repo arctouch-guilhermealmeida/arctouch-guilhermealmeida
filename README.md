@@ -3,9 +3,9 @@ I consider myself a creative and innovative professional. Looking for evolution 
 ### **More details:**
 
 - :man_technologist: I’m currently working on **[ArcTouch](https://arctouch.com/)** as **Software Engineer**
-- ⚙️ I use daily: `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`, `linux`, `Docker`, `CircleCI`, `AWS`
+- ⚙️ Specialties: `Typescript`, `VueJs`, `ReactJS`, `React Native`, `NodeJS`, `Python`, `MongoDB`, `Postgres`, `Html5`, `CSS3`, `SASS`, `Design`.
 - :books: I’m currently studying **Bachelor’s Degree in Computer Science**
-- 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **VueJS**
+- 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **React with typescript**
 - 🤖 My personal website **[guisalmeida.com](https://www.guisalmeida.com)**
 
 #
